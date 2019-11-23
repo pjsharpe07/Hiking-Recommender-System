@@ -1,6 +1,6 @@
 # Hiking-Recommender-System
 
-Here's some light information on what each file is:
+Here's some information about each file:
 
 1) Final Presentation.pdf - A PDF version of my slide deck used for my presentation
 2) Hiking - Get Requests.ipynb - The get requests used for our EDA and to determine if this could be a viable product
